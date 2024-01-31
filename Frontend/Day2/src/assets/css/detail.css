@@ -1,0 +1,5 @@
+.container{
+    display: grid;
+    display: inline-grid;
+    gap: 1.4;
+}
